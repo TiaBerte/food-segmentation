@@ -1,7 +1,7 @@
 # Food Segmentation Challenge
 
 ## Overview
-This work was a part of a university project. We have trained a U-Net and a SegNet from scratch to perform semantic segmentation on food photos.
+This work was a part of a university project. [My teammate](https://github.com/younik) and I have trained a U-Net and a SegNet from scratch to perform semantic segmentation on food photos.
 You can find the dataset on the [page of the competition](https://www.aicrowd.com/challenges/food-recognition-challenge) and more info on the [report](https://github.com/younik/food-segmentation/blob/main/report.pdf). 
 
 ## Problem Statement
